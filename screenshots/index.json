@@ -1,0 +1,10 @@
+[
+  {
+    "repo": "httpbin-cloudflare",
+    "captured_at": "2026-06-20T182913",
+    "source_url": "https://cloudflare-quic.com",
+    "source_type": "fallback-domain",
+    "file": "httpbin-cloudflare-2026-06-20T182913.png",
+    "bytes": 110871
+  }
+]
