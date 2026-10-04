@@ -39,7 +39,6 @@ apis:
   - name: Httpbin Cloudflare
     description: "A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare"
     humanURL: https://cloudflare-quic.com/b/
-    baseURL: https://cloudflare-quic.com/b/
     tags:
       - Development
     properties:
